@@ -1,7 +1,7 @@
 var katzDeli = [];
 var otherDeli = [];
 
-function takeANumber(katzDeliline) {
+function takeANumber(katzDeliline, name) {
   
   
   
