@@ -1,8 +1,9 @@
 var katzDeli = [];
 var otherDeli = [];
 
-function takeANumber(katzDeliline, name) {
-  
+function takeANumber(katzDeli, name) {
+  katzDeli.push(`${name}`);
+  return ""
   
   
 }
